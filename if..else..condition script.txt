@@ -1,0 +1,12 @@
+#!/bin/bash
+
+read -p "Enter the your name:" Kambar
+
+if [[ $Kambar == "Rohit" ]];
+   then
+   echo "Its correct person"
+   
+   else
+         echo "please do't come back"
+
+fi

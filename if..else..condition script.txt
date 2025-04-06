@@ -7,6 +7,6 @@ if [[ $Kambar == "Rohit" ]];
    echo "Its correct person"
    
    else
-         echo "please go to hell"
+         echo "please do't come back"
 
 fi

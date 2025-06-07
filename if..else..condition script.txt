@@ -4,7 +4,7 @@ read -p "Enter the your name:" Kambar
 
 if [[ $Kambar == "Rohit" ]];
    then
-   echo "Its correct person"
+   echo "Its correct person, Thats great"
    
    else
          echo "please do't come back"

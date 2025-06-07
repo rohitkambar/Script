@@ -7,7 +7,7 @@ if [[ $bandi == "daya bhabhi" ]];
 
 then
 
-   echo "jetha is loyal"
+   echo "jetha is loyal, ky baat hai jetha bahot badiya"
 
 elif [[ $pyaar -ge 100 ]];
 
